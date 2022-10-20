@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/micro-app-contries-search-filter/static/css/main.5fed4f7d.css",
+    "main.js": "/micro-app-contries-search-filter/static/js/main.016e2ff2.js",
+    "index.html": "/micro-app-contries-search-filter/index.html",
+    "main.5fed4f7d.css.map": "/micro-app-contries-search-filter/static/css/main.5fed4f7d.css.map",
+    "main.016e2ff2.js.map": "/micro-app-contries-search-filter/static/js/main.016e2ff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fed4f7d.css",
+    "static/js/main.016e2ff2.js"
+  ]
+}
